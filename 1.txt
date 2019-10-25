@@ -1,1 +1,8 @@
-Hello World
+#!/usr/bin/env pyhton
+
+import os
+import subprocess
+
+for i in os.listdir(".")
+	print(i)
+
